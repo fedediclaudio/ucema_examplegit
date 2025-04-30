@@ -3,7 +3,6 @@ def function1(fist_number, second_number):
     pass
 
 # Esta es la función 2
-## NUEVA LINEA
 def function2(first_number, second_number):
     pass
 
