@@ -4,7 +4,7 @@ def function1(first_number, second_number):
 
 # Esta es la función 2
 def function2(first_number, second_number):
-    return first_number + second_number
+    return f"First number: {first_number}\n Second number: {second_number}\n Sum: {first_number + second_number}"
 
 first_number = int(input("Enter the first number: "))
 second_number = int(input("Enter the second number: "))
