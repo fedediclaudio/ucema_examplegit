@@ -3,8 +3,8 @@ def function1(first_number, second_number):
     return "UCEMA " + str(first_number) + " " + str(second_number)
 
 # Esta es la función 2
-def function2(first_number, second_number):
-    return f"First number: {first_number}\n Second number: {second_number}\n Sum: {first_number + second_number}"
+def function2(first_number, second_number, third_number):
+    return first_number - second_number + 100 * first_number - second_number + third_number
 
 first_number = int(input("Enter the first number: "))
 second_number = int(input("Enter the second number: "))
