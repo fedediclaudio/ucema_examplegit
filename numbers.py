@@ -3,8 +3,8 @@ def function1(fist_number, second_number):
     pass
 
 # Esta es la función 2
-def function2(first_number, second_number):
-    return first_number + second_number
+def function2(first_number, second_number, third_number):
+    return first_number - second_number + 100 * first_number - second_number + third_number
 
 first_number = int(input("Enter the first number: "))
 second_number = int(input("Enter the second number: "))
