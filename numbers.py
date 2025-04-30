@@ -1,6 +1,6 @@
 # Este es el módulo numbers.py
-def function1(fist_number, second_number):
-    pass
+def function1(first_number, second_number):
+    return "UCEMA " + str(first_number) + " " + str(second_number)
 
 # Esta es la función 2
 def function2(first_number, second_number):
