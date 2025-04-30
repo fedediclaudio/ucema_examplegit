@@ -1,6 +1,6 @@
 # Este es el módulo numbers.py
 def function1(fist_number, second_number):
-    pass
+    return fist_number * second_number
 
 # Esta es la función 2
 def function2(first_number, second_number):
