@@ -1,6 +1,11 @@
 # Este es el módulo numbers.py
+<<<<<<< HEAD
 def function1(fist_number, second_number):
     return fist_number * second_number
+=======
+def function1(first_number, second_number):
+    return "UCEMA " + str(first_number) + " " + str(second_number)
+>>>>>>> 2cdb47443e41135f8541877351f66ddb29110041
 
 # Esta es la función 2
 def function2(first_number, second_number):
